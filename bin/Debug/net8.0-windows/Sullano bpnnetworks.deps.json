@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sullano bpnnetworks/1.0.0": {
+        "runtime": {
+          "Sullano bpnnetworks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sullano bpnnetworks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
